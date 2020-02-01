@@ -10,6 +10,6 @@ This app contains both the backend and the frontend in a single repository.
 ### Start app containers
 
 backendFolder: npm install -> npm start  
-frontendFOlder: npm install -> npm run serve
+frontendFolder: npm install -> npm run serve
 
 Both have to be runnning before accessing the app from your browser at http://localhost:8080
