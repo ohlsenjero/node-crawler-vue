@@ -1,0 +1,6 @@
+
+crawl(): separate STOP (crawling) from FLUSH (results)
+
+
+
+nav: make Result-Start-Stop a subMenu of Crawl
