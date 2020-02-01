@@ -21,9 +21,6 @@ $ cd NodeJs-Todo-List
 ```
 ### Start app containers
 
-Start the `frontend`, `backend` and `db` containers using docker-compose
+backend: npm start  / frontend: npm run serve
 
-```	bash
-$ docker-compose up -d 
-```
-Access the app from your browser at http://localhost:8080
+Both have to be runnning before accessing the app from your browser at http://localhost:8080
