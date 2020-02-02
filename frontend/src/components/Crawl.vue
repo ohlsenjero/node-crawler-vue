@@ -36,7 +36,7 @@
   export default {
     data() {
       return {
-        url: "http://www.emol.cl/",
+        url: "https://en.wikipedia.org/",
         wordSearch: '',
         crawling:undefined,
         interval:undefined,
